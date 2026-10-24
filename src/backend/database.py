@@ -41,6 +41,7 @@ initial_activities = {
             "end_time": "16:45"
         },
         "max_participants": 12,
+        "difficulty": "Beginner",
         "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
     },
     "Programming Class": {
@@ -129,6 +130,7 @@ initial_activities = {
             "end_time": "17:30"
         },
         "max_participants": 12,
+        "difficulty": "Beginner",
         "participants": ["charlotte@mergington.edu", "amelia@mergington.edu"]
     },
     "Weekend Robotics Workshop": {
